@@ -586,12 +586,38 @@ a:hover {
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#scrollToTop a i:before {
+  content: '';
+  position: absolute;
+  height: 40%;
+  top: 25%;
+  background: #fff;
+  width: 2px;
+  left: calc(50% - 1px);
+}
+#scrollToTop a i:after {
+  content: '';
+  position: absolute;
+  display: block;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  width: 40%;
+  height: 40%;
+  left: 30%;
+  bottom: 30%;
+  transform: rotate(135deg);
+}
 /* Others*/
 .note-check a[data-value=Rubik] {
   font-style: normal;
 }
 .mbr-arrow a {
   color: #ffffff;
+}
+@media (max-width: 767px) {
+  .mbr-arrow {
+    display: none;
+  }
 }
 .form-control-label {
   position: relative;
@@ -1719,14 +1745,15 @@ body {
   flex-basis: auto;
 }
 .cid-qC6UjdSNSN {
-  background-image: url("../../../assets/images/carl-2000x1084.jpg");
+  background-image: url("../../../assets/images/webs-2000x1333.jpg");
 }
 .cid-qC6UjdSNSN H1 {
-  color: #232323;
+  color: #181867;
   text-align: center;
 }
 .cid-qC6UjdSNSN H3 {
-  color: #ffffff;
+  color: #000000;
+  text-align: center;
 }
 .cid-qC7u4oOue1 {
   padding-top: 45px;
