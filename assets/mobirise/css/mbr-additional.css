@@ -1829,12 +1829,16 @@ body {
 }
 .cid-qFvWMgIwBk .mbr-text {
   color: #000000;
+  text-align: left;
 }
 .cid-qFvWMgIwBk .mbr-text B {
-  color: #efefef;
+  color: #000000;
 }
 .cid-qFvWMgIwBk B {
-  color: #efefef;
+  color: #000000;
+}
+.cid-qFvWMgIwBk H2 {
+  text-align: center;
 }
 .cid-qC7g7a7BPn {
   padding-top: 15px;
