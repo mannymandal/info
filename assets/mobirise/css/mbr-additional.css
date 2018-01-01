@@ -1776,6 +1776,75 @@ body {
 .cid-qC7u4oOue1 .testimonial-text B {
   color: #ffffff;
 }
+.cid-qFvSgy6y61 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/glen-2-2000x1333.jpg");
+}
+.cid-qFvSgy6y61 h2 {
+  text-align: left;
+}
+.cid-qFvSgy6y61 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qFvSgy6y61 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qFvSgy6y61 .aside-content {
+  flex-basis: 100%;
+}
+.cid-qFvSgy6y61 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qFvSgy6y61 .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qFvSgy6y61 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qFvSgy6y61 .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qFvSgy6y61 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qFvSgy6y61 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qFvSgy6y61 .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qFvSgy6y61 .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qFvSgy6y61 .mbr-text {
+  color: #000000;
+}
+.cid-qFvSgy6y61 .mbr-text B {
+  color: #ffffff;
+}
+.cid-qFvSgy6y61 B {
+  color: #ffffff;
+}
 .cid-qC7g7a7BPn {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1896,8 +1965,8 @@ body {
   text-align: right;
 }
 .cid-qC7A4fZ3Er {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qC7A4fZ3Er .title {
@@ -1925,7 +1994,7 @@ body {
 .cid-qF04LIuN9R {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/glen-2000x1333.jpg");
+  background-color: #ffffff;
 }
 .cid-qF04LIuN9R .socicon-bg-facebook {
   background: #3e5b98;
