@@ -1922,15 +1922,10 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qC7K77SnVk {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #000000;
-}
 .cid-qF04LIuN9R {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/glen-2000x1333.jpg");
 }
 .cid-qF04LIuN9R .socicon-bg-facebook {
   background: #3e5b98;
@@ -1971,4 +1966,9 @@ body {
   .cid-qF04LIuN9R .btn {
     font-size: 20px !important;
   }
+}
+.cid-qC7K77SnVk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
