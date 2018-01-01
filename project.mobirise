@@ -572,10 +572,10 @@
               "color": "#000000"
             },
             ".mbr-text B": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "features11",
