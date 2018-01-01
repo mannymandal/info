@@ -1755,6 +1755,27 @@ body {
   color: #000000;
   text-align: center;
 }
+.cid-qFw5T4gEtz {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/glen-1-2000x1333.jpg");
+}
+.cid-qFw5T4gEtz .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+  text-align: left;
+}
+.cid-qFw5T4gEtz .mbr-author-name {
+  font-weight: bold;
+}
+.cid-qFw5T4gEtz .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qFw5T4gEtz .testimonial-text B {
+  color: #ffffff;
+}
 .cid-qFvWMgIwBk {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1986,6 +2007,11 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qC7K77SnVk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
 .cid-qF04LIuN9R {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2030,9 +2056,4 @@ body {
   .cid-qF04LIuN9R .btn {
     font-size: 20px !important;
   }
-}
-.cid-qC7K77SnVk {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #000000;
 }
