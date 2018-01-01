@@ -576,10 +576,10 @@
               "text-align": "left"
             },
             ".mbr-text B": {
-              "color": "#ffffff"
+              "color": "#f9f295"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#f9f295"
             },
             "H2": {
               "text-align": "left"
