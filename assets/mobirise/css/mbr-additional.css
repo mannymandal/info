@@ -1948,8 +1948,8 @@ body {
   text-align: right;
 }
 .cid-qC7A4fZ3Er {
-  padding-top: 30px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qC7A4fZ3Er .title {
@@ -1974,13 +1974,8 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qC7K77SnVk {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #000000;
-}
 .cid-qF04LIuN9R {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2023,4 +2018,9 @@ body {
   .cid-qF04LIuN9R .btn {
     font-size: 20px !important;
   }
+}
+.cid-qC7K77SnVk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
